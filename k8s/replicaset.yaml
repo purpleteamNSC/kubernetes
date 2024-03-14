@@ -17,4 +17,3 @@ spec:
       containers:
         - name: goserver
           image: "purpleteamvtx/go-server:latest"
-
